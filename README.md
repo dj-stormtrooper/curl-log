@@ -15,4 +15,4 @@ curl  --header " accept: application/json" --header "content-type: application/j
 
 ```
 
-Пока без вложенных хэдеров типа User Agent
+Пока без вложенных хэдеров типа User Agent и запросов c body
